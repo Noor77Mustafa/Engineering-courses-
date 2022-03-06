@@ -1,2 +1,2 @@
-# Calculus 2 notes-
-All core classes content, notes and homework pdfs
+# Calc 2 notes amd-
+All content, notes and homework pdfs
