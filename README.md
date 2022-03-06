@@ -1,2 +1,2 @@
-# Calc 2 notes amd-
+# Calculas notes 
 All content, notes and homework pdfs
